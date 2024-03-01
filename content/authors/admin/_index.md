@@ -17,11 +17,7 @@ organizations:
     url: https://coss.fsu.edu/sociology/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Megan Skowronski is a Sociology PhD Candidate and Fellow with the Consortium on Analytics and Data-Driven Decision Making (CAnD3), hosted by McGill University. 
-
-Her research area lies at the intersection of health, aging, race/ethnicity, economic stratification, public policy and social service provisions in the US. Her previous work identifies specific household domains of financial precarity which serve as barriers to health-relevant resources, namely medication adherence for older adults. 
-
-Within her doctoral studies, Megan’s primary focus is on understanding associations between spatio-temporal changes in housing segregation, alternative financial services, and population health. To gain a comprehensive understanding of this area, she adopts a multidisciplinary approach, drawing upon sociology, gerontology, epidemiology, public health, and economics, both in theory and methodology.
+bio: Megan Skowronski is a Sociology PhD Candidate and Fellow with the Consortium on Analytics and Data-Driven Decision Making (CAnD3), hosted by McGill University. Her research area lies at the intersection of health, aging, race/ethnicity, economic stratification, public policy and social service provisions in the US. Her previous work identifies specific household domains of financial precarity which serve as barriers to health-relevant resources, namely medication adherence for older adults. Within her doctoral studies, Megan’s primary focus is on understanding associations between spatio-temporal changes in housing segregation, alternative financial services, and population health. To gain a comprehensive understanding of this area, she adopts a multidisciplinary approach, drawing upon sociology, gerontology, epidemiology, public health, and economics, both in theory and methodology.
 
 # Interests to show in About widget
 interests:
