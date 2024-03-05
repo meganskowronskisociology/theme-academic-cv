@@ -59,12 +59,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/meganskowronskisociology
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: file:///Users/meganskowronski/Desktop/Megan%20Skowronski%20CV%20Feb%202024.pdf
+  
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
