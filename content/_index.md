@@ -62,27 +62,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant 
+          company: Florida State Univeristy 
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Florida
           description: |2-
               Responsibilities include:
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Teaching Assistant 
+          company: Florida State Univeristy
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Florida 
+          description:
+○ Families and Social Change (SYO3100) - Fall 2021
+○ Cities in Society (SYD3600) - Fall 2021
+○ Introduction to Sociology (SYG1000) - Spring 2022
+○ Marriage and the Family (SYG2430) - Spring 2023
+○ Social Problems (SYG2010) - Spring 2023
+○ Introduction to Research Methods (SYA5305) - Fall 2023
+○ Advanced Quantitative Methods (SYA5407) - Fall 2023
+○ Population and Society (SYD3020) - Spring 2024
+○ Sociology of Death and Dying (SYA3741) - Spring 2024
     design:
       columns: '2'
   - block: accomplishments
