@@ -73,7 +73,7 @@ sections:
               * Creating
         - title: Teaching Assistant 
           company: Florida State Univeristy
-          company_url: 'https://coss.fsu.edu/sociology/'
+          company_url: https://coss.fsu.edu/sociology/
           location: Florida 
           description: |2- Courses:
               * Families and Social Change (SYO3100) - Fall 2021
