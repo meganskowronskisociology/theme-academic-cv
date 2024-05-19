@@ -68,7 +68,6 @@ sections:
           location: Florida
           description: |2-
               Responsibilities include:
-
               * Cleaning and merging longitudinal datasets 
               * Creating
         - title: Teaching Assistant 
