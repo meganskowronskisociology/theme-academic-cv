@@ -72,7 +72,7 @@ sections:
               * Creating
         - title: Teaching Assistant 
           company: Florida State Univeristy
-          description: |2- Courses:
+          description: |2- 
               * Families and Social Change (SYO3100) - Fall 2021
               * Cities in Society (SYD3600) - Fall 2021
     design:
