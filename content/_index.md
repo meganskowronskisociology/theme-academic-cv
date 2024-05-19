@@ -123,7 +123,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: collection
+ [ - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -149,7 +149,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '2' ]
   - block: portfolio
     id: projects
     content:
